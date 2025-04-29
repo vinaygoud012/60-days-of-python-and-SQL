@@ -1,1 +1,2 @@
-# 60-days-of-python-and-SQL
+Move Python file to Day1 folder
+
